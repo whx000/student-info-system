@@ -7,9 +7,9 @@
 const SYSTEM_CONFIG = {
     // 学生信息
     student: {
-        id: "202300001",      // 学号
-        name: "张小明",       // 姓名
-        department: "计算机科学与技术学院",  // 学院
+        id: "423830219",      // 学号
+        name: "刘梓威",       // 姓名
+        department: "人工智能学院",  // 学院
         enrollmentYear: "2023"  // 入学年份
     },
 
